@@ -1,0 +1,38 @@
+html{
+	height: 100%;
+	width: 100%;
+}
+#main{
+	width: 90%;
+	margin: 0 auto;
+	text-align: center;
+}
+#searchResults{
+	margin-top: 10px;
+}
+.number{
+	cursor: pointer;
+	float: left;
+}
+.rev{
+	float: left;
+}
+.name{
+	float: right;
+}
+.info{
+	width: 80%;
+	height: 10px;
+	text-align: center;
+	margin: 0 auto;
+}
+.key{
+	width: 48%;
+	float: left;
+	text-align: right;
+}
+.data{
+	width: 48%;
+	float: right;
+	text-align: left;
+}
